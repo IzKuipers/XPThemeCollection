@@ -19,7 +19,7 @@ Vishal Gupta    : https://www.deviantart.com/vishal-gupta
   - Aero Media Player
     Source  : Deviant Art
     Author  : EbhefgyXP
-    URL     : deviantart.com/ebhefgyxp/art/Aero-Media-Player-XP-v1-0-887838530
+    URL     : https://www.deviantart.com/ebhefgyxp/art/Aero-Media-Player-XP-v1-0-887838530
   - Aero Vista Colored
     Source  : Deviant Art
     Author  : EbhefgyXP
@@ -120,7 +120,7 @@ Vishal Gupta    : https://www.deviantart.com/vishal-gupta
     Source  : Deviant Art
     Author  : EbhefgyXP
     URL     : https://www.deviantart.com/ebhefgyxp/art/Office-Aqua-XP-v1-1-842471719
-    
+
 7. Misc
   - Black Luna
     Source  : Deviant Art
