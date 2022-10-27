@@ -1,0 +1,59 @@
+; Copyright © Microsoft Corp.
+
+[Theme]
+DisplayName=Windows 10 Light - XP
+
+; My Computer
+[CLSID\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\DefaultIcon]
+DefaultValue=%WinDir%explorer.exe,0
+
+; My Documents
+[CLSID\{450D8FBA-AD25-11D0-98A8-0800361B1103}\DefaultIcon]
+DefaultValue=%WinDir%SYSTEM32\mydocs.dll,0
+
+; My Network Places
+[CLSID\{208D2C60-3AEA-1069-A2D7-08002B30309D}\DefaultIcon]
+DefaultValue=%WinDir%SYSTEM32\shell32.dll,17
+
+; Recycle Bin
+[CLSID\{645FF040-5081-101B-9F08-00AA002F954E}\DefaultIcon]
+full=%WinDir%SYSTEM32\shell32.dll,32
+empty=%WinDir%SYSTEM32\shell32.dll,31
+
+[Control Panel\Cursors]
+AppStarting=%ResourceDir%\Themes\Aero 10\cursors\aero_light_working.ani
+Arrow=%ResourceDir%\Themes\Aero 10\cursors\aero_light_arrow.cur
+Crosshair=
+Hand=%ResourceDir%\Themes\Aero 10\cursors\aero_light_link.cur
+Help=%ResourceDir%\Themes\Aero 10\cursors\aero_light_helpsel.cur
+IBeam=
+No=%ResourceDir%\Themes\Aero 10\cursors\aero_unavail.cur
+NWPen=%ResourceDir%\Themes\Aero 10\cursors\aero_light_pen.cur
+SizeAll=%ResourceDir%\Themes\Aero 10\cursors\aero_light_move.cur
+SizeNESW=%ResourceDir%\Themes\Aero 10\cursors\aero_light_nesw.cur
+SizeNS=%ResourceDir%\Themes\Aero 10\cursors\aero_light_ns.cur
+SizeNWSE=%ResourceDir%\Themes\Aero 10\cursors\aero_light_nwse.cur
+SizeWE=%ResourceDir%\Themes\Aero 10\cursors\aero_light_ew.cur
+UpArrow=%ResourceDir%\Themes\Aero 10\cursors\aero_light_up.cur
+Wait=%ResourceDir%\Themes\Aero 10\cursors\aero_busy.ani
+DefaultValue=Windows Aero Light
+
+[Control Panel\Desktop]
+Wallpaper=%ResourceDir%\Themes\Aero 10\wallpaper\Hero Light.jpg
+TileWallpaper=0
+WallpaperStyle=2
+Pattern=
+ScreenSaveActive=1
+
+[VisualStyles]
+Path=%ResourceDir%\Themes\Aero 10\Aero 10.msstyles
+ColorStyle=NormalColor
+Size=NormalSize
+
+[boot]
+SCRNSAVE.EXE=
+
+[MasterThemeSelector]
+MTSM=DABJDKT
+ThemeColorBPP=8
+

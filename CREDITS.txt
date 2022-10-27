@@ -1,0 +1,153 @@
+XPThemeCollection CREDITS
+============================================================
+
+All the files within these folders belong to their respective owners.
+The greater part of this archive has been collected from Deviant Art
+
+Special thanks to the deviants listed below who created most of
+these amazing themes. Please take a look at their deviations for
+inspiration:
+
+CaptainMajid    : https://www.deviantart.com/captainmajid 
+EbhefgyXP       : https://www.deviantart.com/ebhefgyxp
+Vishal Gupta    : https://www.deviantart.com/vishal-gupta
+8The-Creator8   : https://www.deviantart.com/8the-creator8
+
+============================================================
+
+1. AeroXP
+  - Aero Media Player
+    Source  : Deviant Art
+    Author  : EbhefgyXP
+    URL     : deviantart.com/ebhefgyxp/art/Aero-Media-Player-XP-v1-0-887838530
+  - Aero Vista Colored
+    Source  : Deviant Art
+    Author  : EbhefgyXP
+    URL     : https://www.deviantart.com/ebhefgyxp/art/Aero-Vista-Color-XP-v1-1-850512603
+  - Vishal Gupta
+    - SevenVG
+      - SevenVG RTM
+        Source  : Deviant Art
+        Author  : Vishal Gupta
+        URL     : https://www.deviantart.com/vishal-gupta/art/SevenVG-RTM-Theme-for-XP-133568262
+      - SevenVG RTM - Normal Taskbar
+        Source  : Deviant Art
+        Author  : Vishal Gupta
+        URL     : https://www.deviantart.com/vishal-gupta/art/SevenVG-RTM-Normal-Taskbar-138184680
+    - VistaVG
+      - VistaVG Black
+        Source  : Deviant Art
+        Author  : Vishal Gupta
+        URL     : https://www.deviantart.com/vishal-gupta/art/VistaVG-Black-for-Windows-XP-64306875
+      - VistaVG Blue Refresh
+        Source  : Deviant Art
+        Author  : Vishal Gupta
+        URL     : https://www.deviantart.com/vishal-gupta/art/VistaVG-Blue-Refresh-for-XP-89727046
+      - VistaVG Ultimate
+        Source  : Deviant Art
+        Author  : Vishal Gupta
+        URL     : https://www.deviantart.com/vishal-gupta/art/VistaVG-Ultimate-57715902
+
+2. Aero Squared
+  - Aero Vista Squared
+    Source  : Deviant Art
+    Author  : EbhefgyXP
+    URL     : https://www.deviantart.com/ebhefgyxp/art/Aero-Vista-Squared-XP-v1-1-872786453
+
+3. Original
+  - Embedded
+    Source  : Deviant Art
+    Author  : EbhefgyXP
+    URL     : https://www.deviantart.com/ebhefgyxp/art/Embedded-XP-v1-0-810106866
+  - Luna Beta
+    Source  : Deviant Art
+    Author  : EbhefgyXP
+    URL     : https://www.deviantart.com/ebhefgyxp/art/Luna-Beta-XP-v2-0-807724855
+  - RoyalAIO
+    Source  : Deviant Art
+    Author  : CaptainMajid
+    URL     : https://www.deviantart.com/captainmajid/art/RoyalAIO-v11-169279448
+  - Royale
+    Source  : Reddit
+    Author  : u/[deleted]
+    URL     : Part of archive: https://www.reddit.com/r/windowsxp/comments/icrl9q/download_the_official_windows_xp_themes_no_system/
+  - Royale Noir
+    Source  : Reddit
+    Author  : u/[deleted]
+    URL     : Part of archive: https://www.reddit.com/r/windowsxp/comments/icrl9q/download_the_official_windows_xp_themes_no_system/
+  - Zune
+    Source  : Reddit
+    Author  : u/[deleted]
+    URL     : Part of archive: https://www.reddit.com/r/windowsxp/comments/icrl9q/download_the_official_windows_xp_themes_no_system/
+4. Original Metro
+  - Metro Embedded
+    Source  : Deviant Art
+    Author  : EbhefgyXP
+    URL     : https://www.deviantart.com/ebhefgyxp/art/Metro-Embedded-XP-v2-6-807733569
+  - Metro Energy
+    Source  : Deviant Art
+    Author  : EbhefgyXP
+    URL     : https://www.deviantart.com/ebhefgyxp/art/Metro-Energy-XP-v4-7-807733067
+  - Metro Luna
+    Source  : Deviant Art
+    Author  : EbhefgyXP
+    URL     : https://www.deviantart.com/ebhefgyxp/art/Metro-Luna-XP-v21-7-807732611
+  - Metro Zune Colored
+    Source  : Deviant Art
+    Author  : EbhefgyXP
+    URL     : https://www.deviantart.com/ebhefgyxp/art/Metro-Zune-Color-XP-v1-3-807734705
+  - Metro Zune SG
+    Source  : Deviant Art
+    Author  : EbhefgyXP
+    URL     : https://www.deviantart.com/ebhefgyxp/art/Metro-Zune-SG-XP-v1-2-816607035
+5. Original Squared
+  - Luna Squared
+    Source  : Deviant Art
+    Author  : EbhefgyXP
+    URL     : https://www.deviantart.com/ebhefgyxp/art/Luna-Squared-XP-v1-0-872423288
+  - Zune Squared
+    Source  : Deviant Art
+    Author  : EbhefgyXP
+    URL     : https://www.deviantart.com/ebhefgyxp/art/Zune-Squared-XP-v1-0-872332886
+6. Office
+  - Office 2007
+    Source  : Deviant Art
+    Author  : EbhefgyXP
+    URL     : https://www.deviantart.com/ebhefgyxp/art/Office-2007-XP-v2-1-808982563
+  - Office Aqua
+    Source  : Deviant Art
+    Author  : EbhefgyXP
+    URL     : https://www.deviantart.com/ebhefgyxp/art/Office-Aqua-XP-v1-1-842471719
+7. Misc
+  - Black Luna
+    Source  : Deviant Art
+    Author  : 8The-Creator8
+    URL     : https://www.deviantart.com/8the-creator8/art/Black-Luna-V2-42099792
+  - Classic 3.11 Colored
+    Source  : Deviant Art
+    Author  : EbhefgyXP
+    URL     : https://www.deviantart.com/ebhefgyxp/art/Classic-3-1-Color-XP-v1-0-929673583
+  - Copper
+    Source  : Deviant Art
+    Author  : EbhefgyXP
+    URL     : https://www.deviantart.com/ebhefgyxp/art/Copper-XP-v1-0-929430340
+  - Energy Media Player
+    Source  : Deviant Art
+    Author  : EbhefgyXP
+    URL     : https://www.deviantart.com/ebhefgyxp/art/Energy-Media-Player-XP-v1-0-888143550
+  - MacOS
+    Source  : Deviant Art
+    Author  : EbhefgyXP
+    URL     : https://www.deviantart.com/ebhefgyxp/gallery/69974563/macos-xp-theme
+  - NEXT Level
+    Source  : Deviant Art
+    Author  : EbhefgyXP
+    URL     : https://www.deviantart.com/ebhefgyxp/art/NEXT-Level-XP-v1-0-914157494
+  - Plex 2
+    Source  : Deviant Art
+    Author  : EbhefgyXP
+    URL     : https://www.deviantart.com/ebhefgyxp/art/Plex-2-XP-v5-0-807721338
+  - Windows 10 
+    Source  : Deviant Art
+    Author  : EbhefgyXP
+    URL     : https://www.deviantart.com/ebhefgyxp/art/Aero-10-XP-v16-0-807729425

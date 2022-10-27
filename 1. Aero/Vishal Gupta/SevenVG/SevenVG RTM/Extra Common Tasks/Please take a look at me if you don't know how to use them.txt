@@ -1,0 +1,30 @@
+These are extra bonus files which can be used to show the "Common Tasks" at bottom or at left side of Windows Explorer.
+
+
+Simply copy the "shellstyle.dll" file to any of following folders based upon the theme style you are using:
+
+%windir%\Resources\Themes\SevenVG RTM\Shell\NormalColor
+%windir%\Resources\Themes\SevenVG RTM\Shell\Aero48
+%windir%\Resources\Themes\SevenVG RTM\Shell\Basic32
+%windir%\Resources\Themes\SevenVG RTM\Shell\Basic48
+
+Here %windir% means "Windows" directory present in the system drive where Windows XP installed in your system (most probably C: drive).
+
+
+Remember that a "shellstyle.dll" file will already be present in above folders, so you'll need to replace the existing file.
+
+
+If you face problem while replacing the file, do any of the following:
+
+1. Rename existing "shellstyle.dll" file to some other name and then copy the new DLL file. Restart or log off the system and Windows will start using this new shellstyle.
+
+2. Or first apply default Luna theme from Desktop Properties and then replace the shellstyle.dll file. Now re-apply SevenVG RTM theme.
+
+For more info, you can visit following link:
+
+http://www.askvg.com/download-windows-7-new-light-blue-shellstyle-left-common-tasks-for-windows-xp/
+
+
+Regards,
+Vishal Gupta
+http://www.AskVG.com
