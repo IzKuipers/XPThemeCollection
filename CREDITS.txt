@@ -154,3 +154,7 @@ Vishal Gupta    : https://www.deviantart.com/vishal-gupta
     Source  : Deviant Art
     Author  : EbhefgyXP
     URL     : https://www.deviantart.com/ebhefgyxp/art/Aero-10-XP-v16-0-807729425
+  - Watercolor Theme
+    Source  : Archive.org
+    Author  : Brett34
+    URL     : https://archive.org/details/WindowsXPWatercolorTheme
